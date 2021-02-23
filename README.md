@@ -15,5 +15,7 @@ Pi Camera is able to provide 1920x1080 pixels resolution for up to a rate of 30 
 
 ## Pan-Tilt HAT 
 
+![Image](20210218_150350.gif)
+
 The HAT and its on-board microcontroller allow independently drive the two servos (pan and tilt). 
 The module pans and tilts through 180 degrees in each axis.
