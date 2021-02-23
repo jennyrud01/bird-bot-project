@@ -1,2 +1,2 @@
 # bird-bot-project
-![Image]()
+![Image](birds.gif)
