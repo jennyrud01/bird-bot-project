@@ -4,10 +4,10 @@
 # Hardware 
 
 ## Raspberry Pi 
-
+![Image](rasp_pi_4_b_03_anw.png)
 
 ## Pi Camera
-![Image](Pi camera.png)
+
 
 
 ## Pan-Tilt HAT 
