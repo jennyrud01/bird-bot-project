@@ -1,2 +1,2 @@
 # bird-bot-project
-![Image](MOV_1569.mp4)
+![Video](MOV_1569.mp4)
