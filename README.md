@@ -7,7 +7,7 @@
 
 
 ## Pi Camera
-![Image](Pi Camera.png)
+![Image](Pi camera.png)
 
 
 ## Pan-Tilt HAT 
