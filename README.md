@@ -19,3 +19,10 @@ Pi Camera is able to provide 1920x1080 pixels resolution for up to a rate of 30 
 
 The HAT and its on-board microcontroller allow independently drive the two servos (pan and tilt). 
 The module pans and tilts through 180 degrees in each axis.
+
+
+# Object Detection and Classification 
+
+## SSD MobileNetV3 Model
+
+MobileNetV3 pretrained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite (see rpi-deep-pantilt repo). 
