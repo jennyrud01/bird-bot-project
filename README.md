@@ -40,3 +40,7 @@ In addition to the rpi-deep-pantilt package that is using Google's TensorflowLit
 
 In the implementation you can see real-time object detection based on single-shot detector algorithm. 
 To be continued. 
+
+## Requirements 
+
+To be continued.
