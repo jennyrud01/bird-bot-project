@@ -25,10 +25,10 @@ The module pans and tilts through 180 degrees in each axis.
 
 ## SSD MobileNetV3 Model
 
-SSD MobileNetV3 pre-trained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite, an open source deep learning framework that allows to run Tensorflow Models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size. 
+SSD MobileNetV3 pre-trained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite, an open source deep learning framework that allows to run Tensorflow Models on mobile, embedded, and IoT devices and enables on-device machine learning inference with low latency and a small binary size. 
 The model was trained using [TensorFlow Object Detectio API](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/ "TensorFlow Object Detection API").
 
-In addition to the rpi-deep-pantilt package that is using Google's TensorflowLite, here is a link to the tutorial on how to implement the pre-trained [MobileNetV2 + SSDLite with Core ML](https://machinethink.net/blog/mobilenet-ssdlite-coreml/"MobileNetV2 + SSDLite with Core ML") on iOS devices using machine learning framework Core ML developed by Apple for iOS.
+In addition to the rpi-deep-pantilt package that is using Google's TensorflowLite, here is a link to the tutorial on how to implement the pre-trained [MobileNetV2 + SSDLite with Core ML](https://machinethink.net/blog/mobilenet-ssdlite-coreml/ "MobileNetV2 + SSDLite with Core ML") on iOS devices using machine learning framework Core ML developed by Apple for iOS.
 
 
 | Model Name        | Description   |
