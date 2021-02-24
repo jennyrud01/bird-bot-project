@@ -25,7 +25,7 @@ The module pans and tilts through 180 degrees in each axis.
 
 ## SSD MobileNetV3 Model
 
-MobileNetV3 pretrained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite (see rpi-deep-pantilt repo). 
+[MobileNetV3] [1] pretrained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite (see rpi-deep-pantilt repo). 
 
 
 | Model Name        | Description   |
