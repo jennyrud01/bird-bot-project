@@ -1,5 +1,5 @@
 # Bird Watching Robot Project
-![Image](birds.gif)
+
 
 # Hardware 
 
@@ -26,3 +26,7 @@ The module pans and tilts through 180 degrees in each axis.
 ## SSD MobileNetV3 Model
 
 MobileNetV3 pretrained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite (see rpi-deep-pantilt repo). 
+
+![Image](birds.gif)
+
+In the implementation you can see real-time object detection based on single-shot detector algorithm. 
