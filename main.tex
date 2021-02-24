@@ -57,7 +57,13 @@ Computer Vision aims on rendering advanced visual capabilities to the computers 
 
 \subsection{Application of Convolutional Neural Networks in Object Detection} 
 
-With the significant advancement of deep learning models, the CNN models have demonstrated 'superhuman performance'\cite{ref_book} and became the go-to models for image search services, self-driving cars, automatic video classification, voice recognition, and natural language processing (NLP). Their performance can be assessed both in terms of accuracy and capturing spatial invariance. With real-time object detection and tracking, CNN allows to achieve same result under minor shifts, rotations and deformations. Other networks would have to learn the pattern all over again if it appeared in a new location.\cite {ref_article1}  		
+With the significant advancement of deep learning models, the CNN models have demonstrated 'superhuman performance' and became the go-to models for image search services, self-driving cars, automatic video classification. Moreover they are not restricted to visual perception, they are also successful at other tasks, such as: voice recognition, and natural language processing (NLP).\cite{ref_book} 
+
+The most important block of a CNN is $convolutional$ $layer$. Neurons are not connected to every single pixel of the input image but only to the pixels of the receptive area. In turn, each neuron in the second convolutional layer is connected only to neurons located within a small rectangle in the first layer. This architecture allows the network to concentrate on low-level features in the first hidden layer, then assemble them into higher-level features in the next hidden layer, and so on, thus mimicking the neuron activity in the animal visual cortex.
+
+This hierarchical structure is common in real-world images, which is one of the reasons why CNNs work so well for image recognition.\cite{ref_book2}
+
+Their performance can be assessed both in terms of accuracy and capturing spatial invariance. With real-time object detection and tracking, CNN allows to achieve same result under minor shifts, rotations and deformations. Other networks would have to learn the pattern all over again if it appeared in a new location.\cite {ref_article1}  		
 
 The object detection is done using SSD MobileNetV3 model. It was pre-trained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite.
 
@@ -148,6 +154,13 @@ Pradeep Pujari, Mohit Sewak, Md. Rezaul Karim
 {\it Practical Convolutional Neural Networks},
 Published by Packt Publishing,
 2018.
+
+
+\bibitem{ref_book2}
+Aurélien Géron
+{\it Hands-On Machine Learning with Scikit-Learn and TensorFlow},
+Published by  O'Reilly Media, Inc.,
+2017.
 
 \bibitem{ref_article1}
 
