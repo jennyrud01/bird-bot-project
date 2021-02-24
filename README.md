@@ -29,7 +29,7 @@ MobileNetV3 pretrained on Common Objects in Context (COCO) dataset and converted
 
 | Model Name        | Description   |
 | ----------------  | ------------- |
-| [SSD MobileNetV3] (https://github.com/jennyrud01/rpi-deep-pantilt/blob/master/models/ssd_mobilenet_v3_small_coco_2019_08_14.tar.gz)  | Content Cell  |
+| [SSD MobileNetV3] //https://github.com/jennyrud01/rpi-deep-pantilt/blob/master/models/ssd_mobilenet_v3_small_coco_2019_08_14.tar.gz | Content Cell  |
 
 
 ![Image](birds.gif)
