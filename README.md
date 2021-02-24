@@ -30,10 +30,8 @@ MobileNetV3 pretrained on Common Objects in Context (COCO) dataset and converted
 
 | Model Name        | Description   |
 | ----------------  | ------------- |
-|  SSD MobileNetV3  | Content Cell  |
+|  [SSD MobileNetV3](https://github.com/jennyrud01/rpi-deep-pantilt/tree/master/models/ "SSD MobileNetV3")  | SSD with MobileNetV3 backbone implementation   |
 
-[SSD MobileNetV3](https://github.com/jennyrud01/rpi-deep-pantilt/tree/master/models/ "SSD MobileNetV3")
-[Google](http://google.com/ "Google")
 
 ![Image](birds.gif)
 
