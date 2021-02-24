@@ -27,6 +27,11 @@ The module pans and tilts through 180 degrees in each axis.
 
 MobileNetV3 pretrained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite (see rpi-deep-pantilt repo). 
 
+| Model Name        | Description   |
+| ----------------  | ------------- |
+| SSD MobileNetV3   | Content Cell  |
+
+
 ![Image](birds.gif)
 
 In the implementation you can see real-time object detection based on single-shot detector algorithm. 
