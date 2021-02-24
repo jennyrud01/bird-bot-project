@@ -8,7 +8,7 @@
 
 A small size fully-functional computer that can be programmed almost in any language, and to which additional hardware can be attached.
 
-## Pi Camera
+## Pi Camera V2
 
 8-megapixel camera module attached to Raspberry Pi board with the help of a ribbon cable that gives our robot the ability to see. 
 Pi Camera is able to provide 1920x1080 pixels resolution for up to a rate of 30 frames per second
