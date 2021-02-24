@@ -25,7 +25,7 @@ The module pans and tilts through 180 degrees in each axis.
 
 ## SSD MobileNetV3 Model
 
-MobileNetV3 pretrained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite. 
+SSD MobileNetV3 pretrained on Common Objects in Context (COCO) dataset and converted to TensorFlow Lite, an open source deep learning framework that allows to run Tensorflow Models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size. 
 
 
 | Model Name        | Description   |
